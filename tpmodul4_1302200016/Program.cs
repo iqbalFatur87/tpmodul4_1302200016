@@ -10,6 +10,7 @@ namespace tpmodul4_1302200016
     {
         static void Main(string[] args)
         {
+            DataGeneric<String> dataGeneric = new DataGeneric<string>("1302200016");
 
         }
     }

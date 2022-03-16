@@ -12,6 +12,7 @@ namespace tpmodul4_1302200016
         {
             DataGeneric<String> dataGeneric = new DataGeneric<string>("1302200016");
 
+            dataGeneric.PrintData();   
         }
     }
 }
